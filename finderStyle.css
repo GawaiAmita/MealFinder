@@ -5,7 +5,7 @@
 /* style for body */
 body {
     height: 90vh;
-    background-image: url(background.jpg);
+    background-image: url(backgound.jpg);
     background-size: cover;
     background-position: center;
     backface-visibility: hidden;
